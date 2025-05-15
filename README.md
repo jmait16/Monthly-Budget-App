@@ -11,7 +11,7 @@ A Python script that helps users estimate their monthly budget by calculating in
 - Python 3
 
 ## How to Use
-1. Run the script in your terminal or IDE (`Budget Calculator.py`)
+1. Run the script in your terminal or IDE (`budget_calculator.py`)
 2. Follow the prompts to enter your income, state, and expenses
 3. Review your summary and expense breakdown
 
